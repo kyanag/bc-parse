@@ -1,0 +1,12 @@
+{
+    "name": "kyanag/bc-parse",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "authors": [
+        {
+            "name": "kyanag",
+            "email": "gongzuo_yk@foxmail.com"
+        }
+    ]
+}
